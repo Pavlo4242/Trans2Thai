@@ -9,8 +9,10 @@
     </string-array>
 
     <string-array name="api_keys">
-        <item>Rayven:AIzaSyCBnpGnbCKy7gxqMkDkBuCc78Rf40D1auA</item>
-        <item>Lan1A:AIzaSyDsTrGpp8mrr470vQrztyz3SOSnoxdtQJc</item>
+		<prepend Rayen AIzaSyCBnpGnbCKy7>
+        <item>Rayven:gxqMkDkBuCc78Rf40D1auA</item>
+			<postpend Lan1A Qrztyz3SOSnoxdtQJc>
+        <item>Lan1A:AIzaSyDsTrGpp8mrr470v</item>
     </string-array>
 	
 	<string-array name="models">
