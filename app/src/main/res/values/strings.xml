@@ -9,15 +9,14 @@
     </string-array>
 
     <string-array name="api_keys">
-		<prepend Rayen AIzaSyCBnpGnbCKy7>
-        <item>Rayven:gxqMkDkBuCc78Rf40D1auA</item>
-			<postpend Lan1A Qrztyz3SOSnoxdtQJc>
-        <item>Lan1A:AIzaSyDsTrGpp8mrr470v</item>
+		   <item>Rayven:AIzaSyBh8i1qGJPH1V_vtNMIwQSEdwc-6HlG7_o</item>
+		        <item>Lan1A:AIzaSyDsTrGpp8mrr470v</item>
     </string-array>
 	
 	<string-array name="models">
-    <item>gemini-2.5-flash-preview-native-audio-dialog</item>
-    <item>gemini-2.5-pro</item>
+    <item>gemini-2.5-flash-native-audio-preview-12-2025</item>
+    
+		<item>gemini-2.5-pro</item>
     <item>gemini-2.5-flash</item>
 </string-array>
 	<string-array name="language_display_names">
